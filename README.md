@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Aftab's git hub Web page
+### Tools and Technologies
+1. Microsoft .NET Technologies
+2. Open Source Technologies (PHP, Angular etc)
 
 You can use the [editor on GitHub](https://github.com/aftabnabi/aftabnabi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
