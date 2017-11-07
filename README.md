@@ -10,6 +10,10 @@
 - [HR System Modules](https://github.com/aftabnabi/HRSys)
 - [MilkCRM](https://github.com/aftabnabi/MilkCRMUI)
 
+## Presence On Internet
+- [Github](https://github.com/aftabnabi)
+- [Stack Overflow](https://stackoverflow.com/users/557489/mls)
+- [Upwork](https://www.upwork.com/o/profiles/users/_~015a696f4e34db5d16/)
 
 <!--You can use the [editor on GitHub](https://github.com/aftabnabi/aftabnabi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
