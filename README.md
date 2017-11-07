@@ -6,9 +6,9 @@
 - Javascript, HTML, CSS, Less, Typescript, JQuery 
 
 ## Work on Github
--[CLM](https://github.com/aftabnabi/CLM1)
--[HR System Modules](https://github.com/aftabnabi/HRSys)
--[MilkCRM](https://github.com/aftabnabi/MilkCRMUI)
+- [CLM](https://github.com/aftabnabi/CLM1)
+- [HR System Modules](https://github.com/aftabnabi/HRSys)
+- [MilkCRM](https://github.com/aftabnabi/MilkCRMUI)
 
 
 <!--You can use the [editor on GitHub](https://github.com/aftabnabi/aftabnabi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
