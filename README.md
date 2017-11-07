@@ -1,5 +1,5 @@
-## Welcome to Aftab's git hub Web page
-### Tools and Technologies
+## Welcome 
+# Tools and Technologies
 - ASP.NET C#, MVC, MSSQL, .NET Core, Dapper ORM, EF
 - PHP, MYSQL, WordPress, Joomla
 - Fullstack Developer(Angular JS, Angular2, WebAPI2, Node, Express, MEAN)
