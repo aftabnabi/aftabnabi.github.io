@@ -8,7 +8,7 @@
 - ASP.NET C#, MVC, MSSQL, .NET Core, Dapper ORM, EF
 - PHP, MYSQL, WordPress, Joomla, Shopify
 - Fullstack Developer(Angular, WebAPI, Node, Express, MEAN)
-- Javascript, HTML, CSS, Less, Typescript, JQuery 
+- Javascript, HTML, CSS, SCSS, Typescript, JQuery 
 
 ## Work on Github
 
@@ -16,16 +16,13 @@
 - [eNotes](https://aftabnabi.github.io/eNotes)
 - Header Menu
 
-
 ## Jekyll
 - [aftabnabi.github.io](https://aftabnabi.github.io/)
-
 
 ## PHP
  - HRSys
  - Paratha
  - Open Problems  
-
 
 ## C#
 - MILKCRMUI
@@ -34,7 +31,6 @@
 - CLM1
 - CLM2
 - OrgTemplate
-
 
 ## Angular Typescript
 - eNotes2
@@ -68,4 +64,3 @@
 - [Github](https://github.com/aftabnabi)
 - [Stack Overflow](https://stackoverflow.com/users/557489/mls)
 - [Upwork](https://www.upwork.com/o/profiles/users/_~015a696f4e34db5d16/)
-
