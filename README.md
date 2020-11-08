@@ -1,12 +1,12 @@
 ## Welcome 
 
 ## Professional Experience - Summary
-- 12+ years professional experience in different national/international organization
+- 15+ years professional experience in different national/international organization
 - experienced to work as the part of a team as well as an individual under the large development groups
 
 ## Tools and Technologies
 - ASP.NET C#, MVC, MSSQL, .NET Core, Dapper ORM, EF
-- PHP, MYSQL, WordPress, Joomla
+- PHP, MYSQL, WordPress, Joomla, Shopify
 - Fullstack Developer(Angular, WebAPI, Node, Express, MEAN)
 - Javascript, HTML, CSS, Less, Typescript, JQuery 
 
