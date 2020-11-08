@@ -1,4 +1,4 @@
-## Welcome 
+# Aftab Nabi 
 
 ## Professional Experience - Summary
 - 15+ years professional experience in different national/international organization
@@ -8,34 +8,34 @@
 - ASP.NET C#, MVC, MSSQL, .NET Core, Dapper ORM, EF
 - PHP, MYSQL, WordPress, Joomla, Shopify
 - Fullstack Developer(Angular, WebAPI, Node, Express, MEAN)
-- Javascript, HTML, CSS, SCSS, Typescript, JQuery 
+- Javascript, HTML Markup, CSS, SCSS, Typescript, JQuery, Jekyll Markdown, Liquid
 
 ## Work on Github
 
-## HTML Scss css
+### HTML Scss css
 - [eNotes](https://aftabnabi.github.io/eNotes)
 - Header Menu
 
-## Jekyll
+### Jekyll
 - [aftabnabi.github.io](https://aftabnabi.github.io/)
 
-## PHP
+### PHP
  - HRSys
  - Paratha
  - Open Problems  
 
-## C#
+### C#
 - MILKCRMUI
 
-## Javascript
+### Javascript
 - CLM1
 - CLM2
 - OrgTemplate
 
-## Angular Typescript
+### Angular Typescript
 - eNotes2
 
-## Presence On Internet 6
+### Presence On Internet 6
 - [Gitlab](https://gitlab.com/AftabNabi)
 - [Github](https://github.com/aftabnabi)
 - [Stack Overflow](https://stackoverflow.com/users/557489/mls)
