@@ -7,19 +7,26 @@
 ## Tools and Technologies
 - ASP.NET C#, MVC, MSSQL, .NET Core, Dapper ORM, EF
 - PHP, MYSQL, WordPress, Joomla
-- Fullstack Developer(Angular JS, Angular 2,4, WebAPI2, Node, Express, MEAN)
+- Fullstack Developer(Angular, WebAPI, Node, Express, MEAN)
 - Javascript, HTML, CSS, Less, Typescript, JQuery 
 
 ## Work on Github
+
 ## HTML Scss css
 - [eNotes](https://aftabnabi.github.io/eNotes)
 - Header Menu
+
+
 ## Jekyll
 - [aftabnabi.github.io](https://aftabnabi.github.io/)
+
+
 ## PHP
  - HRSys
  - Paratha
  - Open Problems  
+
+
 ## C#
 - MILKCRMUI
 
@@ -27,6 +34,8 @@
 - CLM1
 - CLM2
 - OrgTemplate
+
+
 ## Angular Typescript
 - eNotes2
 
