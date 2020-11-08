@@ -9,7 +9,7 @@
 - PHP, MYSQL, WordPress, Joomla, Shopify
 - Fullstack Developer(Angular, WebAPI, Node, Express, MEAN)
 - Javascript, HTML Markup, CSS, SCSS, Typescript, JQuery, Jekyll Markdown, Liquid
----------------------------------------
+*********************************************
 
 ## Work on Github
 
@@ -35,7 +35,7 @@
 
 ### Angular Typescript
 - [eNotes2]
----------------------------------------
+*******************************************
 
 ### Presence On Internet 6
 - [Gitlab](https://gitlab.com/AftabNabi)
