@@ -11,39 +11,24 @@
 - Javascript, HTML, CSS, Less, Typescript, JQuery 
 
 ## Work on Github
-
-- [CLM](https://github.com/aftabnabi/CLM1)
-- [HR System Modules](https://github.com/aftabnabi/HRSys)
-- [MilkCRM](https://github.com/aftabnabi/MilkCRMUI)
+## HTML Scss css
 - [eNotes](https://aftabnabi.github.io/eNotes)
-## Presence On Internet
-- [Gitlab](https://gitlab.com/AftabNabi)
-- [Github](https://github.com/aftabnabi)
-- [Stack Overflow](https://stackoverflow.com/users/557489/mls)
-- [Upwork](https://www.upwork.com/o/profiles/users/_~015a696f4e34db5d16/)
-## Presence On Internet 2
-- [Gitlab](https://gitlab.com/AftabNabi)
-- [Github](https://github.com/aftabnabi)
-- [Stack Overflow](https://stackoverflow.com/users/557489/mls)
-- [Upwork](https://www.upwork.com/o/profiles/users/_~015a696f4e34db5d16/)
+- Header Menu
+## Jekyll
+- [aftabnabi.github.io](https://aftabnabi.github.io/)
+## PHP
+ - HRSys
+ - Paratha
 
-## Presence On Internet 3
-- [Gitlab](https://gitlab.com/AftabNabi)
-- [Github](https://github.com/aftabnabi)
-- [Stack Overflow](https://stackoverflow.com/users/557489/mls)
-- [Upwork](https://www.upwork.com/o/profiles/users/_~015a696f4e34db5d16/)
+## C#
+- MILKCRMUI
 
-## Presence On Internet 4
-- [Gitlab](https://gitlab.com/AftabNabi)
-- [Github](https://github.com/aftabnabi)
-- [Stack Overflow](https://stackoverflow.com/users/557489/mls)
-- [Upwork](https://www.upwork.com/o/profiles/users/_~015a696f4e34db5d16/)
-
-## Presence On Internet 5
-- [Gitlab](https://gitlab.com/AftabNabi)
-- [Github](https://github.com/aftabnabi)
-- [Stack Overflow](https://stackoverflow.com/users/557489/mls)
-- [Upwork](https://www.upwork.com/o/profiles/users/_~015a696f4e34db5d16/)
+## Javascript
+- CLM1
+- CLM2
+- OrgTemplate
+## Angular Typescript
+- eNotes2
 
 ## Presence On Internet 6
 - [Gitlab](https://gitlab.com/AftabNabi)
