@@ -39,31 +39,7 @@
 
 *******************************************
 
-### Presence On Internet 6
-- [Gitlab](https://gitlab.com/AftabNabi)
-- [Github](https://github.com/aftabnabi)
-- [Stack Overflow](https://stackoverflow.com/users/557489/mls)
-- [Upwork](https://www.upwork.com/o/profiles/users/_~015a696f4e34db5d16/)
-
-## Presence On Internet 7
-- [Gitlab](https://gitlab.com/AftabNabi)
-- [Github](https://github.com/aftabnabi)
-- [Stack Overflow](https://stackoverflow.com/users/557489/mls)
-- [Upwork](https://www.upwork.com/o/profiles/users/_~015a696f4e34db5d16/)
-
-## Presence On Internet 8
-- [Gitlab](https://gitlab.com/AftabNabi)
-- [Github](https://github.com/aftabnabi)
-- [Stack Overflow](https://stackoverflow.com/users/557489/mls)
-- [Upwork](https://www.upwork.com/o/profiles/users/_~015a696f4e34db5d16/)
-
-## Presence On Internet 9
-- [Gitlab](https://gitlab.com/AftabNabi)
-- [Github](https://github.com/aftabnabi)
-- [Stack Overflow](https://stackoverflow.com/users/557489/mls)
-- [Upwork](https://www.upwork.com/o/profiles/users/_~015a696f4e34db5d16/)
-
-## Presence On Internet 10
+## Presence On Internet
 - [Gitlab](https://gitlab.com/AftabNabi)
 - [Github](https://github.com/aftabnabi)
 - [Stack Overflow](https://stackoverflow.com/users/557489/mls)
