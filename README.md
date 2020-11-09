@@ -13,7 +13,9 @@
 *********************************************
 
 ## Work on Github
-
+<p>
+    Following description does not contain the information of the companies and projects I have been working for.      
+</p>
 ### HTML Scss css
 - [eNotes](https://aftabnabi.github.io/eNotes)
 - [Header Menu](https://github.com/aftabnabi/headermenu0)
