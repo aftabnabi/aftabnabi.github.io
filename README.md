@@ -16,26 +16,26 @@
 
 ### HTML Scss css
 - [eNotes](https://aftabnabi.github.io/eNotes)
-- [Header Menu]
+- [Header Menu](https://github.com/aftabnabi/headermenu0)
 
 ### Jekyll
 - [aftabnabi.github.io](https://aftabnabi.github.io/)
 
 ### PHP
- - [HRSys]()
- - [Paratha]()
- - [Open Problems]()  
+ - [HRSys](https://github.com/aftabnabi/HRSys)
+ - [Paratha](https://github.com/aftabnabi/paratha)
+ - [Open Problems](https://github.com/aftabnabi/openproblems)  
 
 ### C#
-- [MILKCRMUI]()
+- [MILKCRMUI](https://github.com/aftabnabi/MilkCRMUI)
 
 ### Javascript
-- [CLM1]()
-- [CLM2]()
-- [OrgTemplate]()
+- [CLM1](https://github.com/aftabnabi/CLM1)
+- [CLM2](https://github.com/aftabnabi/CLM2)
+- [OrgTemplate](https://github.com/aftabnabi/OrgTemplate)
 
 ### Angular Typescript
-- [eNotes2]()
+- [eNotes2](https://stackblitz.com/edit/angular-hm3jej)
 
 *******************************************
 
