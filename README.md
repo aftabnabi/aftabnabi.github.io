@@ -25,7 +25,7 @@
 
 ### PHP
  - [HRSys](https://github.com/aftabnabi/HRSys)
- - [Paratha](https://github.com/aftabnabi/paratha)
+ - [Paratha](https://aftabnabi.github.io/paratha/)
  - [Open Problems](https://github.com/aftabnabi/openproblems)  
 
 ### C#
