@@ -26,7 +26,7 @@
 ### PHP
  - [HRSys](https://github.com/aftabnabi/HRSys)
  - [Paratha](https://aftabnabi.github.io/paratha/)
- - [Open Problems](https://github.com/aftabnabi/openproblems)  
+ - [Open Problems](http://aftab.hostfree.pw/openproblems/)  
 
 ### C#
 - [MILKCRMUI](https://github.com/aftabnabi/MilkCRMUI)
