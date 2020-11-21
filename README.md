@@ -34,7 +34,7 @@
 ### Javascript
 - [CLM1](https://github.com/aftabnabi/CLM1)
 - [CLM2](https://github.com/aftabnabi/CLM2)
-- [OrgTemplate](https://github.com/aftabnabi/OrgTemplate)
+- [OrgTemplate](http://aftab.heliohost.us/OrgTemplate/)
 
 ### Angular Typescript
 - [eNotes2](https://stackblitz.com/edit/angular-hm3jej)
