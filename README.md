@@ -26,15 +26,15 @@
 ### PHP
  - [HRSys](https://github.com/aftabnabi/HRSys)
  - [Paratha](https://aftabnabi.github.io/paratha/)
- - [Open Problems](http://aftab.hostfree.pw/openproblems/)  
+ - Open Problems  
 
 ### C#
-- [MILKCRMUI](http://milkcrmui.somee.com/)
+- MILKCRMUI
 
 ### Javascript
 - [CLM1](https://github.com/aftabnabi/CLM1)
 - [CLM2](https://github.com/aftabnabi/CLM2)
-- [OrgTemplate](http://aftab.heliohost.us/OrgTemplate/)
+- OrgTemplate
 
 ### Angular Typescript
 - [eNotes2](https://stackblitz.com/edit/angular-hm3jej)
