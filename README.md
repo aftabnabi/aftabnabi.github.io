@@ -5,10 +5,11 @@
 - experienced to work as the part of a team as well as an individual under the large development groups
 
 ## Tools and Technologies
-- ASP.NET C#, MVC, MSSQL, .NET Core, Dapper ORM, EF
+- ASP.NET C#, MVC, MSSQL, .NET Core, Dapper ORM, EF, RESTAPI
 - PHP, MYSQL, WordPress, Joomla, Shopify
-- Fullstack Developer(Angular, WebAPI, Node, Express, MEAN)
+- Fullstack Developer(MEAN, MERN)
 - Javascript, HTML Markup, CSS, SCSS, Typescript, JQuery, Jekyll Markdown, Liquid
+
 
 *********************************************
 
@@ -24,20 +25,20 @@
 - [aftabnabi.github.io](https://aftabnabi.github.io/)
 
 ### PHP
- - [HRSys](https://github.com/aftabnabi/HRSys)
+ - [HRSys](https://aftabnabi.github.io/HRSys)
  - [Paratha](https://aftabnabi.github.io/paratha/)
- - Open Problems  
+ - [Open Problems](https://github.io/aftabnabi/openproblems)  
 
 ### C#
-- MILKCRMUI
+- [MILKCRMUI](https://github.com/aftabnabi/MilkCRMUI)
 
 ### Javascript
 - [CLM1](https://github.com/aftabnabi/CLM1)
 - [CLM2](https://github.com/aftabnabi/CLM2)
-- OrgTemplate
+- [Organization Template] (https://github.io/aftabnabi/OrgTemplate)
 
 ### Angular Typescript
-- [eNotes2](https://stackblitz.com/edit/angular-hm3jej)
+- [eNotes 2](https://stackblitz.com/edit/angular-hm3jej)
 
 *******************************************
 
