@@ -25,9 +25,9 @@
 - [aftabnabi.github.io](https://aftabnabi.github.io/)
 
 ### PHP
- - [HRSys](https://aftabnabi.github.io/HRSys)
+ - [HRSys](https://github.com/aftabnabi/hrsys)
  - [Paratha](https://aftabnabi.github.io/paratha/)
- - [Open Problems](https://github.io/aftabnabi/openproblems)  
+ - [Open Problems](https://github.com/aftabnabi/openproblems)  
 
 ### C#
 - [MILKCRMUI](https://github.com/aftabnabi/MilkCRMUI)
@@ -35,7 +35,7 @@
 ### Javascript
 - [CLM1](https://github.com/aftabnabi/CLM1)
 - [CLM2](https://github.com/aftabnabi/CLM2)
-- [Organization Template] (https://github.io/aftabnabi/OrgTemplate)
+- [Organization Template](https://github.com/aftabnabi/openproblems)
 
 ### Angular Typescript
 - [eNotes 2](https://stackblitz.com/edit/angular-hm3jej)
