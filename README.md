@@ -6,7 +6,7 @@
 
 ## Tools and Technologies
 - ASP.NET C#, MVC, MSSQL, .NET Core, Dapper ORM, EF, RESTAPI
-- PHP, MYSQL, WordPress, Joomla, Shopify
+- PHP, MYSQL, WordPress, Joomla, Shopify, Drupal
 - Fullstack Developer(MEAN, MERN)
 - Javascript, HTML Markup, CSS, SCSS, Typescript, JQuery, Jekyll Markdown, Liquid
 
